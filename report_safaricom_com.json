@@ -1,0 +1,288 @@
+[
+  {
+    "URL": "https://www.preprod.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing HSTS (Insecure HTTPS)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://uat.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing HSTS (Insecure HTTPS)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://www.media.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing HSTS (Insecure HTTPS)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://www.digitalservices.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://digitalservices.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://cp.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing CSP (XSS Risk)",
+      "Leaks Server Software: AmazonS3"
+    ]
+  },
+  {
+    "URL": "https://appstest.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing HSTS (Insecure HTTPS)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://appsprod.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing HSTS (Insecure HTTPS)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://appsdev.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing HSTS (Insecure HTTPS)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://dsdp-cg.safaricom.com",
+    "IsAlive": true,
+    "Bugs": []
+  },
+  {
+    "URL": "https://skiza.safaricom.com",
+    "IsAlive": true,
+    "Bugs": []
+  },
+  {
+    "URL": "https://dsdp-apinb.safaricom.com",
+    "IsAlive": true,
+    "Bugs": []
+  },
+  {
+    "URL": "https://dcbatf1.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Leaks Server Software: Scienlabs"
+    ]
+  },
+  {
+    "URL": "https://dsdpstg-cg.safaricom.com",
+    "IsAlive": true,
+    "Bugs": []
+  },
+  {
+    "URL": "https://luckydrawpromo.skiza.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Leaks Server Software: myweb"
+    ]
+  },
+  {
+    "URL": "https://dsdp-iam.safaricom.com",
+    "IsAlive": true,
+    "Bugs": []
+  },
+  {
+    "URL": "https://vybcall.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Leaks Server Software: nslb"
+    ]
+  },
+  {
+    "URL": "https://games.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing CSP (XSS Risk)",
+      "Leaks Server Software: Microsoft-IIS/10.0"
+    ]
+  },
+  {
+    "URL": "https://dsdpstg.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing CSP (XSS Risk)",
+      "Leaks Server Software: nginx"
+    ]
+  },
+  {
+    "URL": "https://dsdpstg-iam.safaricom.com",
+    "IsAlive": true,
+    "Bugs": []
+  },
+  {
+    "URL": "https://callsign.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Leaks Server Software: myweb"
+    ]
+  },
+  {
+    "URL": "https://dsdp.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Leaks Server Software: nginx"
+    ]
+  },
+  {
+    "URL": "https://dsdpstg-onboarding.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing CSP (XSS Risk)",
+      "Leaks Server Software: nginx"
+    ]
+  },
+  {
+    "URL": "https://dsdp-onboarding.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://cp.skizaroyalties.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://dsdpstg-apinb.safaricom.com",
+    "IsAlive": true,
+    "Bugs": []
+  },
+  {
+    "URL": "https://skizaroyalties.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://www.uat-identity.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing HSTS (Insecure HTTPS)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://www.identity.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing HSTS (Insecure HTTPS)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://www.uat.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing HSTS (Insecure HTTPS)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://www.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing CSP (XSS Risk)",
+      "Leaks Server Software: CloudFront"
+    ]
+  },
+  {
+    "URL": "https://app.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing CSP (XSS Risk)",
+      "Leaks Server Software: AmazonS3"
+    ]
+  },
+  {
+    "URL": "https://identity.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://uat-identity.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing CSP (XSS Risk)"
+    ]
+  },
+  {
+    "URL": "https://media.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing CSP (XSS Risk)",
+      "Leaks Server Software: AmazonS3"
+    ]
+  },
+  {
+    "URL": "https://preprod.safaricom.com",
+    "IsAlive": true,
+    "Bugs": [
+      "Missing X-Frame-Options (Clickjacking Risk)",
+      "Missing CSP (XSS Risk)",
+      "Leaks Server Software: istio-envoy"
+    ]
+  }
+]
